@@ -1,0 +1,10 @@
+{
+  "name": "Minha Lojinha",
+  "server": "http",
+  "urls": [
+    {
+      "name": "Jogos NSP",
+      "url": "https://SEU_USUARIO.github.io/tinfoil-shop/jogos.json"
+    }
+  ]
+}
